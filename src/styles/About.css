@@ -1,0 +1,27 @@
+.intro {
+  width: 20vw;
+}
+
+.icon-container {
+  text-align: center;
+}
+
+.icon {
+  color: #e4bad4;
+}
+
+.title {
+  /* font-family: "Satisfy", cursive; */
+  color: #c98bb1;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 40px;
+}
+
+.description {
+  letter-spacing: 0.02rem;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  opacity: 0.75;
+}

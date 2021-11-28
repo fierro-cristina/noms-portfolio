@@ -1,0 +1,64 @@
+.logo {
+  width: 250px;
+  margin-top: 120px;
+  margin-bottom: 20px;
+}
+
+.logo-container {
+  display: block;
+}
+
+.slogan-container {
+  text-align: center;
+}
+
+.slogan-container h1 {
+  font-family: "Satisfy", cursive;
+  font-size: 58px;
+  line-height: 60px;
+  margin: 0 0 8px 0;
+  padding: 0;
+  color: #623303;
+}
+
+.slogan-container h3 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0;
+  padding: 0;
+  color: #7d542a;
+}
+
+.social-icon {
+  margin-right: 30px;
+  margin-top: 30px;
+  color: #623303;
+  transition: transform 200ms, color 200ms;
+}
+
+.social-icon:hover {
+  transform: scale(1.2);
+  color: #7d542a;
+}
+
+.last-social-icon {
+  color: #623303;
+  transition: transform 200ms, color 200ms;
+}
+
+.last-social-icon:hover {
+  transform: scale(1.2);
+  color: #7d542a;
+}
+
+.down-icon {
+  margin-top: 90px;
+  opacity: 0.2;
+  color: #623303;
+  transition: transform 200ms;
+}
+
+.down-icon:hover {
+  transform: scale(1.2);
+}
